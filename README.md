@@ -8,3 +8,5 @@ Power Series
 Fourier series
 
 Differential equation
+
+Gauss-Jordan Elimination
