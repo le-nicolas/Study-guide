@@ -1,5 +1,5 @@
 # Study-guide
-Dili ko ganahan mag studyg math nga mura kog robot and mo sunod ras instruction. busa gi buhat ko ni nga code aron ma realize and also help to understand kung unsa akong ga buhaton.
+I dont like to study math especially rote memorization. This is why i build this code to deepen my understand on what ill do.
 
 Compose of:
 
